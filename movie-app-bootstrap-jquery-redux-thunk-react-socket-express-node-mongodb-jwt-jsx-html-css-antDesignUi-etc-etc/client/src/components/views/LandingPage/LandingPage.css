@@ -1,0 +1,6 @@
+.cusTitleLangingPage::before {
+    content: '';
+    height: 50%;
+    border: 1px solid rgb(252, 192, 63);
+    margin-right: 1rem;
+}

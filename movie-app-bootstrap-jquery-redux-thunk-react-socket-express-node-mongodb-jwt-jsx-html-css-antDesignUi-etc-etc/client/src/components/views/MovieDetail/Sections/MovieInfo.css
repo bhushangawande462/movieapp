@@ -1,0 +1,21 @@
+.ant-descriptions-bordered .ant-descriptions-item-label {
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+
+.keyboard-cus {
+    margin: 0 0.2em;
+    padding: 0.2em 0.4em 0.1em;
+    font-size: 85%;
+    background: rgba(0, 0, 0, 0.06);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 3px;
+    font-weight: 900;
+}
+
+.ant-descriptions-title::before {
+    content: '';
+    height: 50%;
+    border: 1px solid rgb(252, 192, 63);
+    margin-right: 1rem;
+}
